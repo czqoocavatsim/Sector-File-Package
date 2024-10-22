@@ -1,0 +1,25 @@
+NAT_FSS Gander or Shanwick Oceanic
+CZQQ_CTR Gander Radio
+EGGX_CTR Shanwick Radio
+EGGX_F_DEL Shanwick Radio
+EGGX_F_CTR Shanwick Radio
+EGGX_DEL Shanwick Radio
+EGGX_D_DEL Shanwick Radio
+EGGX_D_CTR Shanwick Radio
+EGGX_C_DEL Shanwick Radio
+EGGX_C_CTR Shanwick Radio
+EGGX_B_DEL Shanwick Radio
+EGGX_B_CTR Shanwick Radio
+EGGX_A_DEL Shanwick Radio
+EGGX_A_CTR Shanwick Radio
+CZQQ_F_DEL Gander Radio
+CZQQ_F_CTR Gander Radio
+CZQQ_DEL Gander Radio
+CZQQ_D_DEL Gander Radio
+CZQQ_D_CTR Gander Radio
+CZQQ_C_DEL Gander Radio
+CZQQ_C_CTR Gander Radio
+CZQQ_B_DEL Gander Radio
+CZQQ_B_CTR Gander Radio
+CZQQ_A_DEL Gander Radio
+CZQQ_A_CTR Gander Radio

@@ -1,0 +1,71 @@
+ASRFastKeys	1	\EXCXO\ASR\OCA.asr
+Plugins	Plugin0	\EXCXO\Plugins\TopSky\TopSky.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin1	\EXCXO\Plugins\EuroNat\euroNAT.dll
+Plugins	Plugin1Display0	Standard ES radar screen
+Plugins	Plugin2	\EXCXO\Plugins\UKPlugin\UKControllerPlugin.dll
+Plugins	Plugin2Display0	Standard ES radar screen
+Plugins	Plugin3	\EXCXO\Plugins\DiscordEuroscope\DiscordEuroscope.dll
+Plugins	Plugin3Display0	Standard ES radar screen
+RecentFiles	Recent1	\EXCXO\ASR\OCA.asr
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+Settings	Settingsfile	\EXCXO\Settings\General.txt
+Settings	SettingsfileADCS	\EXCXO\Settings\General.txt
+Settings	SettingsfileARR	\EXCXO\Settings\Lists_TopSky.txt
+Settings	SettingsfileCONFLICT	\EXCXO\Settings\Lists_TopSky.txt
+Settings	SettingsfileDEP	\EXCXO\Settings\Lists_TopSky.txt
+Settings	SettingsfileFP	\EXCXO\Settings\Lists_TopSky.txt
+Settings	SettingsfileORIGPLANE	\EXCXO\Settings\General.txt
+Settings	SettingsfilePILOTING	\EXCXO\Settings\PilotList.txt
+Settings	SettingsfilePLUGINS	\EXCXO\Settings\Addapted Plugins.txt
+Settings	SettingsfilePROFILE	\EXCXO\Settings\Profiles.txt
+Settings	SettingsfileSCREEN	\EXCXO\Settings\Screen Layout.txt
+Settings	SettingsfileSEL	\EXCXO\Settings\Lists_TopSky.txt
+Settings	SettingsfileSIL	\EXCXO\Settings\Lists_TopSky.txt
+Settings	SettingsfileSTUP	\EXCXO\Settings\General.txt
+Settings	SettingsfileSYMBOLOGY	\EXCXO\Settings\TopSky_Symbology.txt
+Settings	SettingsfileTAGS	\EXCXO\Settings\Tags_TopSky.txt
+Settings	SettingsfileTAKEOFF	\EXCXO\Settings\General.txt
+Settings	SettingsfileTAXIIN	\EXCXO\Settings\General.txt
+Settings	SettingsfileTAXIOUT	\EXCXO\Settings\General.txt
+Settings	SettingsfileVCCS	\EXCXO\Settings\VCCS.txt
+Settings	SettingsfileVOICE	\EXCXO\Settings\VoiceChannels.txt
+Settings	aircraft	\EXCXO\ICAO\ICAO_Aircraft.txt
+Settings	airlines	\EXCXO\ICAO\ICAO_Airlines.txt
+Settings	airportcoords	\EXCXO\NavData\icao.txt
+Settings	airports	\EXCXO\ICAO\ICAO_Airports.txt
+Settings	airways	\EXCXO\NavData\airway.txt
+Settings	alias	\EXCXO\Alias\alias.txt
+Settings	sector	\EXCXO-EXCXO-Install_20241022100157-241001-0003.sct
+Sounds	Sound0	\EXCXO\Sounds\handoff_request.wav
+Sounds	Sound1	\EXCXO\Sounds\handoff_accept.wav
+Sounds	Sound10	\EXCXO\Sounds\disconnected.wav
+Sounds	Sound11	\EXCXO\Sounds\ongoing_request.wav
+Sounds	Sound12	\EXCXO\Sounds\ongoing_accepted.wav
+Sounds	Sound13	\EXCXO\Sounds\ongoing_refused.wav
+Sounds	Sound14	\EXCXO\Sounds\ongoing_manual.wav
+Sounds	Sound15	\EXCXO\Sounds\new_atis.wav
+Sounds	Sound16	\EXCXO\Sounds\handoff_refused.wav
+Sounds	Sound17	\EXCXO\Sounds\pointout.wav
+Sounds	Sound18	\EXCXO\Sounds\startup.wav
+Sounds	Sound3	\EXCXO\Sounds\radio_message.wav
+Sounds	Sound4	\EXCXO\Sounds\private_message.wav
+Sounds	Sound5	\EXCXO\Sounds\atc_message.wav
+Sounds	Sound6	\EXCXO\Sounds\broadcast_message.wav
+Sounds	Sound7	\EXCXO\Sounds\landline_request.wav
+Sounds	Sound8	\EXCXO\Sounds\supervisor_message.wav
+Sounds	Sound9	\EXCXO\Sounds\connected.wav
+TeamSpeakVccs	Ts3DialogBottom	736
+TeamSpeakVccs	Ts3DialogLeft	212
+TeamSpeakVccs	Ts3DialogRight	962
+TeamSpeakVccs	Ts3DialogTop	136
+LastSession	atis_freq4	118000
+Plugins	Plugin4	\EXCXO\Plugins\Audio For VATSIM\AfvEuroScopeBridge.dll
+Plugins	Plugin5	\EXCXO\Plugins\VATCANBookings\VATCANBookings.dll
+Plugins	Plugin5Display0	Standard ES radar screen
+TeamSpeakVccs	TsVccsMiniControlX	1143
+TeamSpeakVccs	TsVccsMiniControlY	57
+TeamSpeakVccs	Ts3NickName	PUT YOUR CID HERE
+TeamSpeakVccs	PlaybackMode	Windows Audio Session
+TeamSpeakVccs	CaptureMode	Windows Audio Session

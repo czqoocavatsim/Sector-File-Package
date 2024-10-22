@@ -1,0 +1,230 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+ARTCC boundary:CZQO Shannon Transfer Line:
+ARTCC high boundary:BGGL - Sondrestorm Oceanic FIR:
+ARTCC high boundary:BIRD - Reykjavic FIR:
+ARTCC high boundary:CZEG - Edmonton FIR:
+ARTCC high boundary:CZQM - Moncton FIR:
+ARTCC high boundary:CZQO Montreal FIR:
+ARTCC high boundary:CZQX - Gander Domestic FIR:
+ARTCC high boundary:CZQX - Gander GOTA:
+ARTCC high boundary:CZQX - Gander Oceanic FIR:
+ARTCC high boundary:CZQX - NYTA:
+ARTCC high boundary:EGGS - SOTA:
+ARTCC high boundary:EGGX - BOTA:
+ARTCC high boundary:EGGX - NOTA:
+ARTCC high boundary:EGGX - Shanwick FIR:
+ARTCC high boundary:EGGX - Shanwick Oceanic FIR:
+ARTCC high boundary:EISN - Shannon FIR:
+ARTCC high boundary:KZNY - New York Oceanic FIR:
+ARTCC high boundary:LECM - Madrid FIR:
+ARTCC high boundary:LFRR - Brest FIR:
+ARTCC high boundary:LPPO - Santa Maria FIR:
+ARTCC high boundary:LPPO - Santa Maria Oceanic FIR:
+Fixes:4520N:name
+Fixes:4520N:symbol
+Fixes:4530N:name
+Fixes:4530N:symbol
+Fixes:4540N:name
+Fixes:4540N:symbol
+Fixes:6114N:name
+Fixes:6114N:symbol
+Fixes:6115N:name
+Fixes:6115N:symbol
+Fixes:6116N:name
+Fixes:6116N:symbol
+Fixes:6117N:name
+Fixes:6117N:symbol
+Fixes:6120N:name
+Fixes:6120N:symbol
+Fixes:ADARA:symbol
+Fixes:ADODO:symbol
+Fixes:ADVAT:symbol
+Fixes:AGORI:name
+Fixes:AGORI:symbol
+Fixes:ALLRY:name
+Fixes:ALLRY:symbol
+Fixes:ATSIX:name
+Fixes:ATSIX:symbol
+Fixes:AVPUT:name
+Fixes:AVPUT:symbol
+Fixes:AVUTI:name
+Fixes:AVUTI:symbol
+Fixes:BALIX:name
+Fixes:BALIX:symbol
+Fixes:BEDRA:name
+Fixes:BEDRA:symbol
+Fixes:BEGAS:name
+Fixes:BEGAS:symbol
+Fixes:BILTO:symbol
+Fixes:BOBTU:name
+Fixes:BOBTU:symbol
+Fixes:BUNAV:name
+Fixes:BUNAV:symbol
+Fixes:CLAVY:name
+Fixes:CLAVY:symbol
+Fixes:CUDDY:name
+Fixes:CUDDY:symbol
+Fixes:DINIM:name
+Fixes:DINIM:symbol
+Fixes:DOGAL:name
+Fixes:DOGAL:symbol
+Fixes:DORYY:name
+Fixes:DORYY:symbol
+Fixes:ELSIR:name
+Fixes:ELSIR:symbol
+Fixes:EMBOK:name
+Fixes:EMBOK:symbol
+Fixes:ERAKA:name
+Fixes:ERAKA:symbol
+Fixes:ETARI:symbol
+Fixes:ETIKI:name
+Fixes:ETIKI:symbol
+Fixes:ETILO:symbol
+Fixes:GELPO:symbol
+Fixes:GOMUP:name
+Fixes:GOMUP:symbol
+Fixes:GONAN:name
+Fixes:GONAN:symbol
+Fixes:HOIST:name
+Fixes:HOIST:symbol
+Fixes:JANJO:name
+Fixes:JANJO:symbol
+Fixes:JOOPY:name
+Fixes:JOOPY:symbol
+Fixes:KETLA:name
+Fixes:KETLA:symbol
+Fixes:KOGAD:symbol
+Fixes:LASNO:name
+Fixes:LASNO:symbol
+Fixes:LIMRI:name
+Fixes:LIMRI:symbol
+Fixes:LOMSI:name
+Fixes:LOMSI:symbol
+Fixes:LUSEN:symbol
+Fixes:MALOT:name
+Fixes:MALOT:symbol
+Fixes:MAXAR:name
+Fixes:MAXAR:symbol
+Fixes:NEBIN:symbol
+Fixes:NEEKO:name
+Fixes:NEEKO:symbol
+Fixes:NICSO:name
+Fixes:NICSO:symbol
+Fixes:NILAV:symbol
+Fixes:OMOKO:name
+Fixes:OMOKO:symbol
+Fixes:OMSAT:name
+Fixes:OMSAT:symbol
+Fixes:ORTAV:symbol
+Fixes:PIDSO:name
+Fixes:PIDSO:symbol
+Fixes:PIKIL:name
+Fixes:PIKIL:symbol
+Fixes:PORTI:name
+Fixes:PORTI:symbol
+Fixes:RAFIN:name
+Fixes:RAFIN:symbol
+Fixes:RATSU:name
+Fixes:RATSU:symbol
+Fixes:RESNO:name
+Fixes:RESNO:symbol
+Fixes:RIKAL:name
+Fixes:RIKAL:symbol
+Fixes:RODEL:symbol
+Fixes:SAVRY:name
+Fixes:SAVRY:symbol
+Fixes:SEPAL:name
+Fixes:SEPAL:symbol
+Fixes:SIVIR:name
+Fixes:SIVIR:symbol
+Fixes:SOMAX:name
+Fixes:SOMAX:symbol
+Fixes:SUNOT:name
+Fixes:SUNOT:symbol
+Fixes:SUPRY:name
+Fixes:SUPRY:symbol
+Fixes:TAMEL:name
+Fixes:TAMEL:symbol
+Fixes:TOBOR:symbol
+Fixes:TUDEP:name
+Fixes:TUDEP:symbol
+Fixes:UMLER:name
+Fixes:UMLER:symbol
+Fixes:URTAK:name
+Fixes:URTAK:symbol
+Fixes:VENER:symbol
+Geo:CZQO Concorde Track SM:
+Geo:CZQO Concorde Track SN:
+Geo:CZQO Concorde Track SO:
+Geo:CZQO Concorde Track SP:
+Geo:CZQO Landmark Coastline (Low Detail):
+Geo:CZQO Positional Grid Reference:
+Geo:EGGX Landmark Coastline (Low Detail):
+Geo:EGGX Landmark Positional Grid Reference:
+Geo:GEO:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:30
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:OCA-TopSky
+WINDOWAREA:40.916069:-72.635959:66.113230:5.117948
+PLUGIN:UK Controller Plugin:approachSequencerContentCollapsed:0
+PLUGIN:UK Controller Plugin:approachSequencerVisible:0
+PLUGIN:UK Controller Plugin:approachSequencerXPosition:200
+PLUGIN:UK Controller Plugin:approachSequencerYPosition:200
+PLUGIN:UK Controller Plugin:CountdownScreenPosX:100
+PLUGIN:UK Controller Plugin:CountdownScreenPosY:100
+PLUGIN:UK Controller Plugin:departureCoordinationListContentCollapsed:0
+PLUGIN:UK Controller Plugin:departureCoordinationListVisible:0
+PLUGIN:UK Controller Plugin:departureCoordinationListXPosition:100
+PLUGIN:UK Controller Plugin:departureCoordinationListYPosition:100
+PLUGIN:UK Controller Plugin:departureReleaseRequestListContentCollapsed:0
+PLUGIN:UK Controller Plugin:departureReleaseRequestListVisible:0
+PLUGIN:UK Controller Plugin:departureReleaseRequestListXPosition:100
+PLUGIN:UK Controller Plugin:departureReleaseRequestListYPosition:100
+PLUGIN:UK Controller Plugin:DisplayCountdown:0
+PLUGIN:UK Controller Plugin:DisplayMinStack:0
+PLUGIN:UK Controller Plugin:DisplayRegionalPressures:0
+PLUGIN:UK Controller Plugin:HistoryTrailAntiAlias:0
+PLUGIN:UK Controller Plugin:HistoryTrailColour:255,130,20
+PLUGIN:UK Controller Plugin:HistoryTrailDegrade:0
+PLUGIN:UK Controller Plugin:HistoryTrailDisplay:1
+PLUGIN:UK Controller Plugin:HistoryTrailDotFill:0
+PLUGIN:UK Controller Plugin:HistoryTrailDotSize:0
+PLUGIN:UK Controller Plugin:HistoryTrailDotTotate:0
+PLUGIN:UK Controller Plugin:HistoryTrailFade:0
+PLUGIN:UK Controller Plugin:HistoryTrailLength:1
+PLUGIN:UK Controller Plugin:HistoryTrailMaxAltitudeFilter:99999
+PLUGIN:UK Controller Plugin:HistoryTrailMinAltitudeFilter:99999
+PLUGIN:UK Controller Plugin:HistoryTrailType:0
+PLUGIN:UK Controller Plugin:holdDisplayVisibility:0
+PLUGIN:UK Controller Plugin:MinStackScreenPosX:100
+PLUGIN:UK Controller Plugin:MinStackScreenPosY:100
+PLUGIN:UK Controller Plugin:missedApproachButtonVisibility:0
+PLUGIN:UK Controller Plugin:missedApproachButtonXPosition:200
+PLUGIN:UK Controller Plugin:missedApproachButtonYPosition:200
+PLUGIN:UK Controller Plugin:missedApproachRenderDuration:5
+PLUGIN:UK Controller Plugin:missedApproachRenderMode:0
+PLUGIN:UK Controller Plugin:pendingPrenoteMessageListContentCollapsed:0
+PLUGIN:UK Controller Plugin:pendingPrenoteMessageListVisible:0
+PLUGIN:UK Controller Plugin:pendingPrenoteMessageListXPosition:100
+PLUGIN:UK Controller Plugin:pendingPrenoteMessageListYPosition:100
+PLUGIN:UK Controller Plugin:RegionalPressureScreenPosX:100
+PLUGIN:UK Controller Plugin:RegionalPressureScreenPosY:100
+PLUGIN:UK Controller Plugin:SelectedMinStack:tma.LTMA;tma.MTMA;tma.STMA
+PLUGIN:UK Controller Plugin:SelectedRegionalPressures:ASR_LONDON;ASR_SCOTTISH
+PLUGIN:UK Controller Plugin:wakeCalculatorVisibility:0
+PLUGIN:UK Controller Plugin:wakeCalculatorXPosition:200
+PLUGIN:UK Controller Plugin:wakeCalculatorYPosition:200
