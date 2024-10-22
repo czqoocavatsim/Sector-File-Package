@@ -63,10 +63,29 @@ CPDLC_AHDG=0
 CPDLC_ASP=1
 CPDLC_AutoAcceptLogon=1
 CPDLC_AutoAcceptLogon_Time=60
-Window_CPDLC_Current=1,1064,0
 
-//NAT Window
+
+//RDF. Disabled to lack of support for TrackAudio
+RDF_Mode=0
+
+//Windows
+[_CTR]
+//CPDLC
+Window_CPDLC_Current=1,1342,485
+
+//NAT
 Window_NAT=1,1342,633,520,322
 
-//RDF
-RDF_Mode=2
+//CPDLC
+Window_CPDLC_Setting=1,1744,374
+
+//Same info
+[_FSS]
+//CPDLC
+Window_CPDLC_Current=1,1342,485
+
+//NAT
+Window_NAT=1,1342,633,520,322
+
+//CPDLC
+Window_CPDLC_Setting=1,1744,374

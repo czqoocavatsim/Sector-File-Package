@@ -61,11 +61,12 @@ TeamSpeakVccs	Ts3DialogLeft	212
 TeamSpeakVccs	Ts3DialogRight	962
 TeamSpeakVccs	Ts3DialogTop	136
 LastSession	atis_freq4	118000
-Plugins	Plugin4	\EXCXO\Plugins\Audio For VATSIM\AfvEuroScopeBridge.dll
-Plugins	Plugin5	\EXCXO\Plugins\VATCANBookings\VATCANBookings.dll
+Plugins	Plugin4	\EXCXO\Plugins\VATCANBookings\VATCANBookings.dll
+Plugins	Plugin5	\EXCXO\Plugins\RDF\RDFPlugin.dll
 Plugins	Plugin5Display0	Standard ES radar screen
 TeamSpeakVccs	TsVccsMiniControlX	1143
 TeamSpeakVccs	TsVccsMiniControlY	57
 TeamSpeakVccs	Ts3NickName	PUT YOUR CID HERE
 TeamSpeakVccs	PlaybackMode	Windows Audio Session
 TeamSpeakVccs	CaptureMode	Windows Audio Session
+Plugins	Plugin4Display0	Standard ES radar screen
