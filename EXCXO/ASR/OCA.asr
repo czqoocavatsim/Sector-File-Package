@@ -1,8 +1,8 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:
-SECTORTITLE:
+SECTORFILE:D:\VATSIM\EXCXO-Github\EXCXO-EXCXO-Install_20241022100157-241001-0003.sct
+SECTORTITLE:EXCXO-EXCXO-Install_20241022100157-241001-0003.sct
 ARTCC boundary:CZQO Shannon Transfer Line:
 ARTCC high boundary:BGGL - Sondrestorm Oceanic FIR:
 ARTCC high boundary:BIRD - Reykjavic FIR:
@@ -20,10 +20,17 @@ ARTCC high boundary:EGGX - Shanwick FIR:
 ARTCC high boundary:EGGX - Shanwick Oceanic FIR:
 ARTCC high boundary:EISN - Shannon FIR:
 ARTCC high boundary:KZNY - New York Oceanic FIR:
-ARTCC high boundary:LECM - Madrid FIR:
 ARTCC high boundary:LFRR - Brest FIR:
 ARTCC high boundary:LPPO - Santa Maria FIR:
 ARTCC high boundary:LPPO - Santa Maria Oceanic FIR:
+Fixes:2540N:name
+Fixes:2540N:symbol
+Fixes:3040N:name
+Fixes:3040N:symbol
+Fixes:3540N:name
+Fixes:3540N:symbol
+Fixes:4040N:name
+Fixes:4040N:symbol
 Fixes:4520N:name
 Fixes:4520N:symbol
 Fixes:4530N:name
@@ -49,6 +56,8 @@ Fixes:ALLRY:name
 Fixes:ALLRY:symbol
 Fixes:ATSIX:name
 Fixes:ATSIX:symbol
+Fixes:AVAST:name
+Fixes:AVAST:symbol
 Fixes:AVPUT:name
 Fixes:AVPUT:symbol
 Fixes:AVUTI:name
@@ -62,18 +71,40 @@ Fixes:BEGAS:symbol
 Fixes:BILTO:symbol
 Fixes:BOBTU:name
 Fixes:BOBTU:symbol
+Fixes:BROOM:name
+Fixes:BROOM:symbol
 Fixes:BUNAV:name
 Fixes:BUNAV:symbol
+Fixes:BUTUX:name
+Fixes:BUTUX:symbol
+Fixes:CANEE:name
+Fixes:CANEE:symbol
+Fixes:CHEDR:name
+Fixes:CHEDR:symbol
+Fixes:CITRS:name
+Fixes:CITRS:symbol
 Fixes:CLAVY:name
 Fixes:CLAVY:symbol
+Fixes:CNNOR:name
+Fixes:CNNOR:symbol
 Fixes:CUDDY:name
 Fixes:CUDDY:symbol
+Fixes:DABAK:name
+Fixes:DABAK:symbol
+Fixes:DAWIN:name
+Fixes:DAWIN:symbol
 Fixes:DINIM:name
 Fixes:DINIM:symbol
 Fixes:DOGAL:name
 Fixes:DOGAL:symbol
+Fixes:DOGRS:name
+Fixes:DOGRS:symbol
 Fixes:DORYY:name
 Fixes:DORYY:symbol
+Fixes:DOVEY:name
+Fixes:DOVEY:symbol
+Fixes:ELJEZ:name
+Fixes:ELJEZ:symbol
 Fixes:ELSIR:name
 Fixes:ELSIR:symbol
 Fixes:EMBOK:name
@@ -84,42 +115,80 @@ Fixes:ETARI:symbol
 Fixes:ETIKI:name
 Fixes:ETIKI:symbol
 Fixes:ETILO:symbol
+Fixes:FERNA:name
+Fixes:FERNA:symbol
 Fixes:GELPO:symbol
 Fixes:GOMUP:name
 Fixes:GOMUP:symbol
 Fixes:GONAN:name
 Fixes:GONAN:symbol
+Fixes:GRATX:name
+Fixes:GRATX:symbol
+Fixes:HANCY:name
+Fixes:HANCY:symbol
 Fixes:HOIST:name
 Fixes:HOIST:symbol
+Fixes:JAINS:name
+Fixes:JAINS:symbol
 Fixes:JANJO:name
 Fixes:JANJO:symbol
+Fixes:JETER:name
+Fixes:JETER:symbol
 Fixes:JOOPY:name
 Fixes:JOOPY:symbol
+Fixes:KEEKA:name
+Fixes:KEEKA:symbol
 Fixes:KETLA:name
 Fixes:KETLA:symbol
+Fixes:KINCH:name
+Fixes:KINCH:symbol
 Fixes:KOGAD:symbol
+Fixes:LAMER:name
+Fixes:LAMER:symbol
 Fixes:LASNO:name
 Fixes:LASNO:symbol
+Fixes:LETON:name
+Fixes:LETON:symbol
 Fixes:LIMRI:name
 Fixes:LIMRI:symbol
+Fixes:LNHOM:name
+Fixes:LNHOM:symbol
 Fixes:LOMSI:name
 Fixes:LOMSI:symbol
+Fixes:LUCTI:name
+Fixes:LUCTI:symbol
 Fixes:LUSEN:symbol
 Fixes:MALOT:name
 Fixes:MALOT:symbol
+Fixes:MAPYL:name
+Fixes:MAPYL:symbol
 Fixes:MAXAR:name
 Fixes:MAXAR:symbol
+Fixes:MILLE:name
+Fixes:MILLE:symbol
+Fixes:MLLER:name
+Fixes:MLLER:symbol
+Fixes:MONEY:name
+Fixes:MONEY:symbol
 Fixes:NEBIN:symbol
 Fixes:NEEKO:name
 Fixes:NEEKO:symbol
 Fixes:NICSO:name
 Fixes:NICSO:symbol
 Fixes:NILAV:symbol
+Fixes:OBIKE:name
+Fixes:OBIKE:symbol
 Fixes:OMOKO:name
 Fixes:OMOKO:symbol
 Fixes:OMSAT:name
 Fixes:OMSAT:symbol
+Fixes:OPAUL:name
+Fixes:OPAUL:symbol
 Fixes:ORTAV:symbol
+Fixes:OUTES:name
+Fixes:OUTES:symbol
+Fixes:OWENZ:name
+Fixes:OWENZ:symbol
 Fixes:PIDSO:name
 Fixes:PIDSO:symbol
 Fixes:PIKIL:name
@@ -141,8 +210,14 @@ Fixes:SEPAL:name
 Fixes:SEPAL:symbol
 Fixes:SIVIR:name
 Fixes:SIVIR:symbol
+Fixes:SNAGY:name
+Fixes:SNAGY:symbol
+Fixes:SOCCO:name
+Fixes:SOCCO:symbol
 Fixes:SOMAX:name
 Fixes:SOMAX:symbol
+Fixes:SUMRS:name
+Fixes:SUMRS:symbol
 Fixes:SUNOT:name
 Fixes:SUNOT:symbol
 Fixes:SUPRY:name
@@ -150,13 +225,26 @@ Fixes:SUPRY:symbol
 Fixes:TAMEL:name
 Fixes:TAMEL:symbol
 Fixes:TOBOR:symbol
+Fixes:TOMMZ:name
+Fixes:TOMMZ:symbol
+Fixes:TROUT:name
+Fixes:TROUT:symbol
+Fixes:TUBBS:name
+Fixes:TUBBS:symbol
 Fixes:TUDEP:name
 Fixes:TUDEP:symbol
+Fixes:UKOKA:name
+Fixes:UKOKA:symbol
 Fixes:UMLER:name
 Fixes:UMLER:symbol
 Fixes:URTAK:name
 Fixes:URTAK:symbol
 Fixes:VENER:symbol
+Fixes:WATRS:name
+Fixes:WATRS:symbol
+Fixes:WHOOS:name
+Fixes:WHOOS:symbol
+Geo:BDA Coastline:
 Geo:CZQO Concorde Track SM:
 Geo:CZQO Concorde Track SN:
 Geo:CZQO Concorde Track SO:
@@ -166,11 +254,55 @@ Geo:CZQO Positional Grid Reference:
 Geo:EGGX Landmark Coastline (Low Detail):
 Geo:EGGX Landmark Positional Grid Reference:
 Geo:GEO:
+Geo:ZWY Coastline:
+Geo:ZWY Positional Grid Reference:
+High airways:L375:line
+High airways:L435:line
+High airways:L450:line
+High airways:L451:line
+High airways:L452:line
+High airways:L454:line
+High airways:L455:line
+High airways:L456:line
+High airways:L457:line
+High airways:L458:line
+High airways:L459:line
+High airways:L461:line
+High airways:L462:line
+High airways:L576:line
+High airways:L776:line
+High airways:M201:line
+High airways:M202:line
+High airways:M203:line
+High airways:M204:line
+High airways:M325:line
+High airways:M326:line
+High airways:M327:line
+High airways:M328:line
+High airways:M329:line
+High airways:M330:line
+High airways:M331:line
+High airways:M525:line
+High airways:M576:line
+High airways:M590:line
+High airways:M591:line
+High airways:M592:line
+High airways:M593:line
+High airways:M594:line
+High airways:M595:line
+High airways:M596:line
+High airways:M597:line
+High airways:Y485:line
+High airways:Y486:line
+High airways:Y487:line
+High airways:Y488:line
+High airways:Y493:line
+High airways:Y494:line
 SHOWC:1
 SHOWSB:1
 BELOW:0
 ABOVE:0
-LEADER:30
+LEADER:0
 SHOWLEADER:0
 TURNLEADER:0
 HISTORY_DOTS:5
@@ -179,7 +311,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:OCA-TopSky
-WINDOWAREA:40.916069:-72.635959:66.113230:5.117948
+WINDOWAREA:-0.311363:-130.495083:48.901842:21.368021
 PLUGIN:UK Controller Plugin:approachSequencerContentCollapsed:0
 PLUGIN:UK Controller Plugin:approachSequencerVisible:0
 PLUGIN:UK Controller Plugin:approachSequencerXPosition:200

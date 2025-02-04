@@ -7,7 +7,7 @@ Plugins	Plugin2	\EXCXO\Plugins\UKPlugin\UKControllerPlugin.dll
 Plugins	Plugin2Display0	Standard ES radar screen
 Plugins	Plugin3	\EXCXO\Plugins\DiscordEuroscope\DiscordEuroscope.dll
 Plugins	Plugin3Display0	Standard ES radar screen
-RecentFiles	Recent1	\EXCXO\ASR\OCA.asr
+RecentFiles	Recent1	\EXCXO\ASR\BDA_TMA.asr
 Settings	AselKey	5111808
 Settings	FreqKey	3604480
 Settings	Settingsfile	\EXCXO\Settings\General.txt
@@ -70,3 +70,6 @@ TeamSpeakVccs	Ts3NickName	PUT YOUR CID HERE
 TeamSpeakVccs	PlaybackMode	Windows Audio Session
 TeamSpeakVccs	CaptureMode	Windows Audio Session
 Plugins	Plugin4Display0	Standard ES radar screen
+RecentFiles	Recent2	\EXCXO\ASR\OCA.asr
+RecentFiles	Recent3	\EXCXO\ASR\BDA_GND.asr
+RecentFiles	Recent4	\EXCXO\ASR\BDA_GND.asr

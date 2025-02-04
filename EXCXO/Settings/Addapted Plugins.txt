@@ -122,4 +122,15 @@ TopSky plugin:ACList/Secondary VFR List/m_Resizable:1
 TopSky plugin:ACList/Secondary VFR List/m_OrderingColumn:1
 TopSky plugin:ACList/Secondary VFR List/m_Column_0: Callsign:10:0:10021:6:0:1:TopSky plugin:TopSky plugin:
 TopSky plugin:ACList/Secondary VFR List/m_Column_1:  CFL:6:0:10002:12:99:1:TopSky plugin:TopSky plugin:TopSky plugin
+euroNAT:ShowEastbound:true
+euroNAT:ShowWestbound:true
+euroNAT:ShowLetters:true
+euroNAT:ShowLines:true
+euroNAT:ShowDottedLines:true
+euroNAT:ShowShortNames:false
+euroNAT:AntialiasedLines:false
+euroNAT:ConcordeTracks:false
+euroNAT:EastboundColor:9737331
+euroNAT:WestboundColor:7574643
+euroNAT:ConcordeColor:6579400
 END
