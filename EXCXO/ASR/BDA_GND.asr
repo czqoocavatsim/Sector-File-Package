@@ -1,0 +1,116 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:D:\VATSIM\EXCXO-Github\EXCXO-EXCXO-Install_20241022100157-241001-0003.sct
+SECTORTITLE:EXCXO-EXCXO-Install_20241022100157-241001-0003.sct
+Airports:TXKF:name
+Airports:TXKF:symbol
+Free Text:BDA GroundLayout\11:freetext
+Free Text:BDA GroundLayout\12:freetext
+Free Text:BDA GroundLayout\12A:freetext
+Free Text:BDA GroundLayout\13:freetext
+Free Text:BDA GroundLayout\14:freetext
+Free Text:BDA GroundLayout\15:freetext
+Free Text:BDA GroundLayout\15A:freetext
+Free Text:BDA GroundLayout\16:freetext
+Free Text:BDA GroundLayout\3:freetext
+Free Text:BDA GroundLayout\4:freetext
+Free Text:BDA GroundLayout\5:freetext
+Free Text:BDA GroundLayout\5A:freetext
+Free Text:BDA GroundLayout\6:freetext
+Free Text:BDA GroundLayout\61:freetext
+Free Text:BDA GroundLayout\61A:freetext
+Free Text:BDA GroundLayout\61B:freetext
+Free Text:BDA GroundLayout\62:freetext
+Free Text:BDA GroundLayout\63:freetext
+Free Text:BDA GroundLayout\63A:freetext
+Free Text:BDA GroundLayout\7:freetext
+Free Text:BDA GroundLayout\7A:freetext
+Free Text:BDA GroundLayout\8:freetext
+Free Text:BDA GroundLayout\A:freetext
+Free Text:BDA GroundLayout\A:freetext
+Free Text:BDA GroundLayout\A:freetext
+Free Text:BDA GroundLayout\Airport Maintainence Facility:freetext
+Free Text:BDA GroundLayout\Apron 3:freetext
+Free Text:BDA GroundLayout\B:freetext
+Free Text:BDA GroundLayout\B:freetext
+Free Text:BDA GroundLayout\B:freetext
+Free Text:BDA GroundLayout\B:freetext
+Free Text:BDA GroundLayout\C:freetext
+Free Text:BDA GroundLayout\Control Tower:freetext
+Free Text:BDA GroundLayout\E:freetext
+Free Text:BDA GroundLayout\F:freetext
+Free Text:BDA GroundLayout\F:freetext
+Free Text:BDA GroundLayout\FBO:freetext
+Free Text:BDA GroundLayout\Fire Hall:freetext
+Free Text:BDA GroundLayout\Freight Terminal:freetext
+Free Text:BDA GroundLayout\G:freetext
+Free Text:BDA GroundLayout\H:freetext
+Free Text:BDA GroundLayout\J:freetext
+Free Text:BDA GroundLayout\Maintainence:freetext
+Free Text:BDA GroundLayout\Q:freetext
+Free Text:BDA GroundLayout\Q:freetext
+Free Text:BDA GroundLayout\T:freetext
+Free Text:BDA GroundLayout\Terminal:freetext
+Free Text:BDA GroundLayout\W:freetext
+Geo:BDA Coastline:
+Geo:BDA Groundlayout:
+Regions:BDA GroundLayout:polygon
+VORs:BDA:frequency
+VORs:BDA:name
+VORs:BDA:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:32.350468:-64.723245:32.375456:-64.646137
+PLUGIN:UK Controller Plugin:approachSequencerContentCollapsed:0
+PLUGIN:UK Controller Plugin:approachSequencerVisible:0
+PLUGIN:UK Controller Plugin:approachSequencerXPosition:200
+PLUGIN:UK Controller Plugin:approachSequencerYPosition:200
+PLUGIN:UK Controller Plugin:CountdownScreenPosX:100
+PLUGIN:UK Controller Plugin:CountdownScreenPosY:100
+PLUGIN:UK Controller Plugin:departureCoordinationListContentCollapsed:0
+PLUGIN:UK Controller Plugin:departureCoordinationListVisible:0
+PLUGIN:UK Controller Plugin:departureCoordinationListXPosition:100
+PLUGIN:UK Controller Plugin:departureCoordinationListYPosition:100
+PLUGIN:UK Controller Plugin:DisplayCountdown:0
+PLUGIN:UK Controller Plugin:DisplayMinStack:0
+PLUGIN:UK Controller Plugin:DisplayRegionalPressures:0
+PLUGIN:UK Controller Plugin:HistoryTrailAntiAlias:1
+PLUGIN:UK Controller Plugin:HistoryTrailColour:255,130,20
+PLUGIN:UK Controller Plugin:HistoryTrailDegrade:1
+PLUGIN:UK Controller Plugin:HistoryTrailDisplay:1
+PLUGIN:UK Controller Plugin:HistoryTrailDotFill:0
+PLUGIN:UK Controller Plugin:HistoryTrailDotSize:4
+PLUGIN:UK Controller Plugin:HistoryTrailDotTotate:0
+PLUGIN:UK Controller Plugin:HistoryTrailFade:1
+PLUGIN:UK Controller Plugin:HistoryTrailLength:15
+PLUGIN:UK Controller Plugin:HistoryTrailMaxAltitudeFilter:99999
+PLUGIN:UK Controller Plugin:HistoryTrailMinAltitudeFilter:0
+PLUGIN:UK Controller Plugin:HistoryTrailType:0
+PLUGIN:UK Controller Plugin:holdDisplayVisibility:1
+PLUGIN:UK Controller Plugin:MinStackScreenPosX:100
+PLUGIN:UK Controller Plugin:MinStackScreenPosY:100
+PLUGIN:UK Controller Plugin:missedApproachButtonVisibility:0
+PLUGIN:UK Controller Plugin:missedApproachButtonXPosition:200
+PLUGIN:UK Controller Plugin:missedApproachButtonYPosition:200
+PLUGIN:UK Controller Plugin:missedApproachRenderDuration:5
+PLUGIN:UK Controller Plugin:missedApproachRenderMode:0
+PLUGIN:UK Controller Plugin:RegionalPressureScreenPosX:100
+PLUGIN:UK Controller Plugin:RegionalPressureScreenPosY:100
+PLUGIN:UK Controller Plugin:SelectedMinStack:tma.LTMA;tma.MTMA;tma.STMA
+PLUGIN:UK Controller Plugin:SelectedRegionalPressures:ASR_LONDON;ASR_SCOTTISH
+PLUGIN:UK Controller Plugin:wakeCalculatorCollapsed:0
+PLUGIN:UK Controller Plugin:wakeCalculatorVisibility:0
+PLUGIN:UK Controller Plugin:wakeCalculatorXPosition:200
+PLUGIN:UK Controller Plugin:wakeCalculatorYPosition:200

@@ -1,0 +1,383 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:D:\VATSIM\EXCXO-Github\EXCXO-EXCXO-Install_20241022100157-241001-0003.sct
+SECTORTITLE:EXCXO-EXCXO-Install_20241022100157-241001-0003.sct
+Airports:BIKF:name
+Airports:BIRK:name
+Airports:BIRL:name
+Airports:BIRS:name
+Airports:CYQX:name
+Airports:CYYT:name
+Airports:EGAA:name
+Airports:EGBB:name
+Airports:EGCC:name
+Airports:EGKK:name
+Airports:EGLL:name
+Airports:EGNM:name
+Airports:EGPD:name
+Airports:EGPE:name
+Airports:EGPF:name
+Airports:EGPH:name
+Airports:EGPK:name
+Airports:EGPO:name
+Airports:EGTE:name
+Airports:EICK:name
+Airports:EIDL:name
+Airports:EIDW:name
+Airports:EINN:name
+Airports:GCLP:name
+Airports:GCTS:name
+Airports:GCXO:name
+Airports:LPAZ:name
+Airports:LPLA:name
+Airports:LPPR:name
+Airports:LPPT:name
+Airports:TXKF:name
+ARTCC boundary:CZQO Shannon Transfer Line:
+ARTCC high boundary:BGGL - Sondrestorm Oceanic FIR:
+ARTCC high boundary:BIRD - Reykjavic FIR:
+ARTCC high boundary:CZEG - Edmonton FIR:
+ARTCC high boundary:CZQM - Moncton FIR:
+ARTCC high boundary:CZQO Montreal FIR:
+ARTCC high boundary:CZQX - Gander Domestic FIR:
+ARTCC high boundary:CZQX - Gander GOTA:
+ARTCC high boundary:CZQX - Gander Oceanic FIR:
+ARTCC high boundary:CZQX - NYTA:
+ARTCC high boundary:EGGS - SOTA:
+ARTCC high boundary:EGGX - BOTA:
+ARTCC high boundary:EGGX - NOTA:
+ARTCC high boundary:EGGX - Shanwick FIR:
+ARTCC high boundary:EGGX - Shanwick Oceanic FIR:
+ARTCC high boundary:EISN - Shannon FIR:
+ARTCC high boundary:KZNY - New York Oceanic FIR:
+ARTCC high boundary:LFRR - Brest FIR:
+ARTCC high boundary:LPPO - Santa Maria FIR:
+ARTCC high boundary:LPPO - Santa Maria Oceanic FIR:
+VORs:ACK:symbol
+VORs:ACY:symbol
+VORs:ADM:symbol
+VORs:ADW:symbol
+VORs:AKI:symbol
+VORs:ALB:symbol
+VORs:AML:symbol
+VORs:ANU:symbol
+VORs:ARD:symbol
+VORs:ARR:symbol
+VORs:ART:symbol
+VORs:ATR:symbol
+VORs:AUG:symbol
+VORs:BAF:symbol
+VORs:BAL:symbol
+VORs:BDA:symbol
+VORs:BDR:symbol
+VORs:BGR:symbol
+VORs:BJA:symbol
+VORs:BML:symbol
+VORs:BOS:symbol
+VORs:BQN:symbol
+VORs:BRV:symbol
+VORs:BTV:symbol
+VORs:BV:symbol
+VORs:BWZ:symbol
+VORs:BYT:symbol
+VORs:CAM:symbol
+VORs:CAS:symbol
+VORs:CCC:symbol
+VORs:CCV:symbol
+VORs:CDO:symbol
+VORs:CEF:symbol
+VORs:CFB:symbol
+VORs:CMK:symbol
+VORs:COL:symbol
+VORs:CON:symbol
+VORs:COY:symbol
+VORs:CRI:symbol
+VORs:CRK:symbol
+VORs:CRN:symbol
+VORs:CSN:symbol
+VORs:CTR:symbol
+VORs:CVI:symbol
+VORs:CYN:symbol
+VORs:DAR:symbol
+VORs:DCA:symbol
+VORs:DCR:symbol
+VORs:DCY:symbol
+VORs:DHG:symbol
+VORs:DHT:symbol
+VORs:DKH:symbol
+VORs:DMT:symbol
+VORs:DMU:symbol
+VORs:DMX:symbol
+VORs:DNY:symbol
+VORs:DOV:symbol
+VORs:DPK:symbol
+VORs:DQO:symbol
+VORs:DSA:symbol
+VORs:DSC:symbol
+VORs:ECG:symbol
+VORs:EEN:symbol
+VORs:ELZ:symbol
+VORs:EMI:symbol
+VORs:ENE:symbol
+VORs:ENO:symbol
+VORs:ESP:symbol
+VORs:ESS:symbol
+VORs:ETG:symbol
+VORs:ETX:symbol
+VORs:EWN:symbol
+VORs:EWR:symbol
+VORs:FAK:symbol
+VORs:FDK:symbol
+VORs:FJC:symbol
+VORs:FOK:symbol
+VORs:FQM:symbol
+VORs:FRS:symbol
+VORs:FTM:symbol
+VORs:FTV:symbol
+VORs:FUE:symbol
+VORs:FUN:symbol
+VORs:GDM:symbol
+VORs:GDV:symbol
+VORs:GEE:symbol
+VORs:GGT:symbol
+VORs:GLM:symbol
+VORs:GON:symbol
+VORs:GSB:symbol
+VORs:GTK:symbol
+VORs:GVE:symbol
+VORs:GXU:symbol
+VORs:HAR:symbol
+VORs:HCM:symbol
+VORs:HCN:symbol
+VORs:HFD:symbol
+VORs:HGR:symbol
+VORs:HL:symbol
+VORs:HNK:symbol
+VORs:HPW:symbol
+VORs:HR:symbol
+VORs:HTO:symbol
+VORs:HUL:symbol
+VORs:HUO:symbol
+VORs:HVN:symbol
+VORs:IGN:symbol
+VORs:IK8:symbol
+VORs:ILM:symbol
+VORs:ING:symbol
+VORs:ISO:symbol
+VORs:ITH:symbol
+VORs:JFK:symbol
+VORs:KFV:symbol
+VORs:LAY:symbol
+VORs:LEB:symbol
+VORs:LFI:symbol
+VORs:LFV:symbol
+VORs:LGA:symbol
+VORs:LGM:symbol
+VORs:LIS:symbol
+VORs:LM:symbol
+VORs:LPC:symbol
+VORs:LRA:symbol
+VORs:LRN:symbol
+VORs:LRO:symbol
+VORs:LRP:symbol
+VORs:LTE:symbol
+VORs:LVL:symbol
+VORs:LVZ:symbol
+VORs:LWM:symbol
+VORs:LZR:symbol
+VORs:MAD:symbol
+VORs:MAK:symbol
+VORs:MAZ:symbol
+VORs:MBA:symbol
+VORs:MGR:symbol
+VORs:MHT:symbol
+VORs:MIP:symbol
+VORs:MLT:symbol
+VORs:MLY:symbol
+VORs:MOB:symbol
+VORs:MOJ:symbol
+VORs:MPV:symbol
+VORs:MRB:symbol
+VORs:MS:symbol
+VORs:MSS:symbol
+VORs:MTR:symbol
+VORs:MVY:symbol
+VORs:MXE:symbol
+VORs:NBW:symbol
+VORs:NCA:symbol
+VORs:NEL:symbol
+VORs:NGU:symbol
+VORs:NHK:symbol
+VORs:NKT:symbol
+VORs:NQ:symbol
+VORs:NRR:symbol
+VORs:NTU:symbol
+VORs:OG:symbol
+VORs:OOD:symbol
+VORs:ORF:symbol
+VORs:ORW:symbol
+VORs:OT:symbol
+VORs:OTT:symbol
+VORs:OVR:symbol
+VORs:PAP:symbol
+VORs:PE:symbol
+VORs:PJM:symbol
+VORs:PNA:symbol
+VORs:PNN:symbol
+VORs:PQI:symbol
+VORs:PRT:symbol
+VORs:PSB:symbol
+VORs:PSM:symbol
+VORs:PTA:symbol
+VORs:PTW:symbol
+VORs:PUT:symbol
+VORs:PVD:symbol
+VORs:PVN:symbol
+VORs:PWL:symbol
+VORs:PXT:symbol
+VORs:RAV:symbol
+VORs:RBV:symbol
+VORs:RBX:symbol
+VORs:RIC:symbol
+VORs:RKA:symbol
+VORs:ROC:symbol
+VORs:RUT:symbol
+VORs:SAX:symbol
+VORs:SBJ:symbol
+VORs:SBY:symbol
+VORs:SEG:symbol
+VORs:SEY:symbol
+VORs:SFK:symbol
+VORs:SGO:symbol
+VORs:SGR:symbol
+VORs:SHA:symbol
+VORs:SIA:symbol
+VORs:SIE:symbol
+VORs:SIS:symbol
+VORs:SJU:symbol
+VORs:SKB:symbol
+VORs:SLG:symbol
+VORs:SLK:symbol
+VORs:SLT:symbol
+VORs:SMR:symbol
+VORs:SNT:symbol
+VORs:SRA:symbol
+VORs:SS:symbol
+VORs:STG:symbol
+VORs:STO:symbol
+VORs:STT:symbol
+VORs:STW:symbol
+VORs:SWL:symbol
+VORs:SYR:symbol
+VORs:TDF:symbol
+VORs:TEB:symbol
+VORs:TFN:symbol
+VORs:TFS:symbol
+VORs:TGN:symbol
+VORs:THS:symbol
+VORs:TLZ:symbol
+VORs:TNN:symbol
+VORs:TRM:symbol
+VORs:TYI:symbol
+VORs:UCA:symbol
+VORs:UCM:symbol
+VORs:UCU:symbol
+VORs:UHG:symbol
+VORs:UTR:symbol
+VORs:UYR:symbol
+VORs:UZX:symbol
+VORs:VAP:symbol
+VORs:VCN:symbol
+VORs:VFL:symbol
+VORs:VGO:symbol
+VORs:VLV:symbol
+VORs:VMG:symbol
+VORs:VSM:symbol
+VORs:XBG:symbol
+VORs:YAY:symbol
+VORs:YBC:symbol
+VORs:YCF:symbol
+VORs:YDF:symbol
+VORs:YFB:symbol
+VORs:YGL:symbol
+VORs:YGP:symbol
+VORs:YHZ:symbol
+VORs:YJH:symbol
+VORs:YMT:symbol
+VORs:YMZ:symbol
+VORs:YNA:symbol
+VORs:YOW:symbol
+VORs:YPX:symbol
+VORs:YQI:symbol
+VORs:YQO:symbol
+VORs:YQX:symbol
+VORs:YQY:symbol
+VORs:YUC:symbol
+VORs:YUL:symbol
+VORs:YVO:symbol
+VORs:YVP:symbol
+VORs:YWK:symbol
+VORs:YXI:symbol
+VORs:YYG:symbol
+VORs:YYR:symbol
+VORs:YYT:symbol
+VORs:YYY:symbol
+VORs:YZV:symbol
+VORs:ZQA:symbol
+VORs:ZRT:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:31.434352:-67.534121:33.168238:-61.973427
+PLUGIN:UK Controller Plugin:approachSequencerContentCollapsed:0
+PLUGIN:UK Controller Plugin:approachSequencerVisible:0
+PLUGIN:UK Controller Plugin:approachSequencerXPosition:200
+PLUGIN:UK Controller Plugin:approachSequencerYPosition:200
+PLUGIN:UK Controller Plugin:CountdownScreenPosX:100
+PLUGIN:UK Controller Plugin:CountdownScreenPosY:100
+PLUGIN:UK Controller Plugin:departureCoordinationListContentCollapsed:0
+PLUGIN:UK Controller Plugin:departureCoordinationListVisible:0
+PLUGIN:UK Controller Plugin:departureCoordinationListXPosition:100
+PLUGIN:UK Controller Plugin:departureCoordinationListYPosition:100
+PLUGIN:UK Controller Plugin:DisplayCountdown:1
+PLUGIN:UK Controller Plugin:DisplayMinStack:1
+PLUGIN:UK Controller Plugin:DisplayRegionalPressures:1
+PLUGIN:UK Controller Plugin:HistoryTrailAntiAlias:1
+PLUGIN:UK Controller Plugin:HistoryTrailColour:255,130,20
+PLUGIN:UK Controller Plugin:HistoryTrailDegrade:1
+PLUGIN:UK Controller Plugin:HistoryTrailDisplay:1
+PLUGIN:UK Controller Plugin:HistoryTrailDotFill:0
+PLUGIN:UK Controller Plugin:HistoryTrailDotSize:4
+PLUGIN:UK Controller Plugin:HistoryTrailDotTotate:0
+PLUGIN:UK Controller Plugin:HistoryTrailFade:1
+PLUGIN:UK Controller Plugin:HistoryTrailLength:15
+PLUGIN:UK Controller Plugin:HistoryTrailMaxAltitudeFilter:99999
+PLUGIN:UK Controller Plugin:HistoryTrailMinAltitudeFilter:0
+PLUGIN:UK Controller Plugin:HistoryTrailType:0
+PLUGIN:UK Controller Plugin:holdDisplayVisibility:1
+PLUGIN:UK Controller Plugin:MinStackScreenPosX:100
+PLUGIN:UK Controller Plugin:MinStackScreenPosY:100
+PLUGIN:UK Controller Plugin:missedApproachButtonVisibility:0
+PLUGIN:UK Controller Plugin:missedApproachButtonXPosition:200
+PLUGIN:UK Controller Plugin:missedApproachButtonYPosition:200
+PLUGIN:UK Controller Plugin:missedApproachRenderDuration:5
+PLUGIN:UK Controller Plugin:missedApproachRenderMode:0
+PLUGIN:UK Controller Plugin:RegionalPressureScreenPosX:100
+PLUGIN:UK Controller Plugin:RegionalPressureScreenPosY:100
+PLUGIN:UK Controller Plugin:SelectedMinStack:tma.LTMA;tma.MTMA;tma.STMA
+PLUGIN:UK Controller Plugin:SelectedRegionalPressures:ASR_LONDON;ASR_SCOTTISH
+PLUGIN:UK Controller Plugin:wakeCalculatorCollapsed:0
+PLUGIN:UK Controller Plugin:wakeCalculatorVisibility:0
+PLUGIN:UK Controller Plugin:wakeCalculatorXPosition:200
+PLUGIN:UK Controller Plugin:wakeCalculatorYPosition:200
